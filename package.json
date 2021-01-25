@@ -1,0 +1,8 @@
+{
+  "name": "prettier-config-brave",
+  "version": "1.0.0",
+  "description": "Prettier config for Brave Technology Coop",
+  "main": "index.json",
+  "repository": "git@github.com:bravetechnologycoop/prettier-config-brave.git",
+  "author": "Marisa Doig"
+}
